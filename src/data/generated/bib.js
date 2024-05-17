@@ -49,6 +49,25 @@
         "urldate": "2024-05-09",
         "year": "2023"
     },
+    "kumar_educational_2021": {
+        "abstract": "Educational chatbots (ECs) are chatbots designed for pedagogical purposes and are viewed as an Internet of Things (IoT) interface that could revolutionize teaching and learning. These chatbots are strategized to provide personalized learning through the concept of a virtual assistant that replicates humanized conversation. Nevertheless, in the education paradigm, ECs are still novel with challenges in facilitating, deploying, designing, and integrating it as an effective pedagogical tool across multiple fields, and one such area is project-based learning. Therefore, the present study investigates how integrating ECs to facilitate team-based projects for a design course could influence learning outcomes. Based on a mixed-method quasi-experimental approach, ECs were found to improve learning performance and teamwork with a practical impact. Moreover, it was found that ECs facilitated collaboration among team members that indirectly influenced their ability to perform as a team. Nevertheless, affective-motivational learning outcomes such as perception of learning, need for cognition, motivation, and creative self-efficacy were not influenced by ECs. Henceforth, this study aims to add to the current body of knowledge on the design and development of EC by introducing a new collective design strategy and its pedagogical and practical implications.",
+        "author": "Kumar, Jeya Amantha",
+        "doi": "10.1186/s41239-021-00302-w",
+        "file": "Full Text PDF:C\\:\\\\Users\\\\benha\\\\Zotero\\\\storage\\\\HNUAAYSZ\\\\Kumar - 2021 - Educational chatbots for project-based learning i.pdf:application/pdf",
+        "issn": "2365-9440",
+        "journal": "International Journal of Educational Technology in Higher Education",
+        "keywords": "Chatbot, Collaborative learning, Design education, Mobile learning, Project-based learning, Teamwork, Telegram",
+        "month": "dec,",
+        "number": "1",
+        "pages": "65",
+        "shorttitle": "Educational chatbots for project-based learning",
+        "title": "Educational chatbots for project-based learning: investigating learning outcomes for a team-based design course",
+        "type": "article",
+        "url": "https://doi.org/10.1186/s41239-021-00302-w",
+        "urldate": "2024-05-17",
+        "volume": "18",
+        "year": "2021"
+    },
     "lee_rise_2023": {
         "abstract": "Abstract The integration of artificial intelligence (AI) into medical education has the potential to revolutionize the way students learn about biomedical sciences. Large language models, such as ChatGPT, can serve as virtual teaching assistants, providing students with detailed and relevant information and perhaps eventually interactive simulations. ChatGPT has the potential to increase student engagement and enhance student learning, though research is needed to confirm this. The challenges and limitations of ChatGPT must also be considered, including ethical issues and potentially harmful effects. It is crucial for medical educators to keep pace with technology's rapidly changing landscape and consider the implications for curriculum design, assessment strategies, and teaching methods. Continued research and evaluation are necessary to ensure the optimal integration of AI\u2010based learning tools into medical education.",
         "annote": "[TLDR] ChatGPT has the potential to increase student engagement and enhance student learning, though research is needed to confirm this and the challenges and limitations of ChatGPT must also be considered.",
@@ -99,16 +118,6 @@
         "url": "http://arxiv.org/abs/2303.08774",
         "urldate": "2024-05-09",
         "year": "2024"
-    },
-    "sjostrom_designing_2018": {
-        "author": "Sj\u00f6str\u00f6m, Jonas and Aghaee, Nam and Dahlin, Maritha and \u00c5gerfalk, P\u00e4r",
-        "file": "\"DESIGNING CHATBOTS FOR HIGHER EDUCATION PRACTICE\" by Jonas Sj\u00f6str\u00f6m, Nam Aghaee et al.:C\\:\\\\Users\\\\benha\\\\Zotero\\\\storage\\\\JF6KIB76\\\\4.html:text/html",
-        "journal": "Proceedings of the 2018 AIS SIGED International Conference on Information Systems Education and Research",
-        "month": "jan,",
-        "title": "{DESIGNING} {CHATBOTS} {FOR} {HIGHER} {EDUCATION} {PRACTICE}",
-        "type": "article",
-        "url": "https://aisel.aisnet.org/siged2018/4",
-        "year": "2018"
     },
     "tlili_what_2023": {
         "abstract": "Artificial Intelligence (AI) technologies have been progressing constantly and being more visible in different aspects of our lives. One recent phenomenon is ChatGPT, a chatbot with a conversational artificial intelligence interface that was developed by OpenAI. As one of the most advanced artificial intelligence applications, ChatGPT has drawn much public attention across the globe. In this regard, this study examines ChatGPT in education, among early adopters, through a qualitative instrumental case study. Conducted in three stages, the first stage of the study reveals that the public discourse in social media is generally positive and there is enthusiasm regarding its use in educational settings. However, there are also voices who are approaching cautiously using ChatGPT in educational settings. The second stage of the study examines the case of ChatGPT through lenses of educational transformation, response quality, usefulness, personality and emotion, and ethics. In the third and final stage of the study, the investigation of user experiences through ten educational scenarios revealed various issues, including cheating, honesty and truthfulness of ChatGPT, privacy misleading, and manipulation. The findings of this study provide several research directions that should be considered to ensure a safe and responsible adoption of chatbots, specifically ChatGPT, in education.",
